@@ -1,0 +1,29 @@
+fun main() {
+    println("dzhos")
+    println(123)
+    println(123.33)
+    println(123.3qd3)
+    println(123.34.23)
+    println(123 + 457.82)
+    cos(123, 45)
+
+    45 += 67
+
+    if(dz >= os) println(123)
+    else println(456)
+}
+
+interface Dz { }
+
+class Dzhos(
+    private val dz : String
+    private val alex : String = "123"
+) {
+    fun print() {
+        println(dz)
+    }
+}
+
+fun main() {
+    val dz = Dzhos("124")
+}
